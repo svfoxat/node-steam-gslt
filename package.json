@@ -1,0 +1,15 @@
+{
+  "name": "node-steam-gslt",
+  "version": "1.0.0",
+  "description": "commandline tool to create new GSLT Tokens for Steam Apps",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nico.noessler@austrianforce.at",
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "superagent": "^3.8.2"
+  }
+}
